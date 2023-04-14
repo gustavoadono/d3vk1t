@@ -500,6 +500,18 @@
     [
       "ee5fa9de-078f-4c07-8a01-b202c218757d",
       "comm"
+    ],
+    [
+      "fd7cf4b0-4d20-445a-8ab6-186a5df83da1",
+      "usb"
+    ],
+    [
+      "aea6c2ba-3179-4867-b0ce-0dd87f8d3618",
+      "sdcard"
+    ],
+    [
+      "e98ce5ae-3299-44a8-aa00-89ba62c092e8",
+      "misc"
     ]
   ],
   "text_variables": {}

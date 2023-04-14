@@ -167,6 +167,23 @@
     )
   )
 
+  (sheet (at 116.332 93.726) (size 20.32 12.192) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid aea6c2ba-3179-4867-b0ce-0dd87f8d3618)
+    (property "Sheetname" "sdcard" (at 116.332 93.0144 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "sdcard.kicad_sch" (at 116.332 106.5026 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "d3vk1t"
+        (path "/4ea523ae-7c45-478e-a9cc-6f4833d1a9d5" (page "7"))
+      )
+    )
+  )
+
   (sheet (at 115.824 71.882) (size 21.082 14.478) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -184,6 +201,23 @@
     )
   )
 
+  (sheet (at 147.32 93.98) (size 18.796 12.192) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e98ce5ae-3299-44a8-aa00-89ba62c092e8)
+    (property "Sheetname" "misc" (at 147.32 93.2684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "misc.kicad_sch" (at 147.32 106.7566 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "d3vk1t"
+        (path "/4ea523ae-7c45-478e-a9cc-6f4833d1a9d5" (page "8"))
+      )
+    )
+  )
+
   (sheet (at 175.768 72.136) (size 22.352 14.478) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -197,6 +231,23 @@
     (instances
       (project "d3vk1t"
         (path "/4ea523ae-7c45-478e-a9cc-6f4833d1a9d5" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 86.106 93.472) (size 22.352 12.446) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid fd7cf4b0-4d20-445a-8ab6-186a5df83da1)
+    (property "Sheetname" "usb" (at 86.106 92.7604 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "usb.kicad_sch" (at 86.106 106.5026 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "d3vk1t"
+        (path "/4ea523ae-7c45-478e-a9cc-6f4833d1a9d5" (page "6"))
       )
     )
   )
