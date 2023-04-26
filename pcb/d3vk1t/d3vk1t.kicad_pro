@@ -512,6 +512,14 @@
     [
       "e98ce5ae-3299-44a8-aa00-89ba62c092e8",
       "misc"
+    ],
+    [
+      "8fe1fdc0-8bae-4d78-a4a9-2ad08056c62a",
+      "display"
+    ],
+    [
+      "ac1d2896-27c0-45bc-84c6-c8b7bb8c0615",
+      "memories"
     ]
   ],
   "text_variables": {}
