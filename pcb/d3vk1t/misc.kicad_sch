@@ -932,7 +932,7 @@
     (property "Value" "2N7002" (at 199.39 108.585 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-3" (at 198.12 108.585 0)
+    (property "Footprint" "bruno-libs:SOT-23B" (at 198.12 108.585 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" (at 193.04 106.68 0)
