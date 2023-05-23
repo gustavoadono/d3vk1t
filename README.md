@@ -1,6 +1,11 @@
 # **d3vkit board**
 This repository contains information and resources related to a custom board featuring the STM32F412RET6 microcontroller. This board has been developed for study purposes and includes several integrated components, such as the LSM6DSMTR sensor (accelerometer and gyroscope), the HDC1080DMBR sensor (temperature and humidity), and the LPS22HBTR sensor (barometer). Additionally, the board features an SD card slot, CAN and RS485 interfaces, USB connectivity, and the ESP32-C3-WROOM-02-H4 module for Wi-Fi and Bluetooth communication.
 
+<p align="center">
+  <img src="doc/d3vk1t_block_diagram.png" alt="diagram" />
+</p>
+
+
 # **overview**
 
 The custom board has been designed to provide a flexible platform for studying and experimentation using the STM32F412RET6 microcontroller. It encompasses the following key features:
@@ -27,4 +32,4 @@ If you have any questions or need further information, feel free to get in touch
 
 # bill of material
 
-[Interactive BOM](https://gustavoadono.github.io/board/d3vk1t-bom)
+you can see the entire bill of materials through this link [d3vk1t-bom](https://gustavoadono.github.io/board/d3vk1t-bom).
