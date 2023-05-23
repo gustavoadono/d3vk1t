@@ -24,3 +24,7 @@ The custom board has been designed to provide a flexible platform for studying a
 # **contact**
 
 If you have any questions or need further information, feel free to get in touch. You can reach me via the provided email address in the repository's profile.
+
+# bill of material
+
+[Interactive BOM](https://gustavoadono.github.io/board/d3vk1t-bom)
